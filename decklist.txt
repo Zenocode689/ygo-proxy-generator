@@ -12,54 +12,28 @@
 ############
 
 # Regular Monsters
-Subterror Behemoth Umastryx
-Subterror Guru
-Subterror Guru
-Subterror Guru
+Magicians' Souls
+Magicians' Souls
+Magicians' Souls
 
 # Hand Traps
-Ash Blossom & Joyous Spring
-Ash Blossom & Joyous Spring
-Ash Blossom & Joyous Spring
-Subterror Fiendess
-Subterror Fiendess
-Subterror Fiendess
-Effect Veiler
-Effect Veiler
+Infinite Impermanence
+Infinite Impermanence
+Infinite Impermanence
+Evenly Matched
+Evenly Matched
+Evenly Matched
 
 # Consistency Spells
-Pot of Extravagance
-Pot of Extravagance
-Pot of Extravagance
-Terraforming
-Terraforming
-Pot of Duality
-Pot of Duality
-Pot of Duality
-The Hidden City
-The Hidden City
-The Hidden City
+Upstart Goblin
 
 # Floodgates
-Summon Limit
-Summon Limit
-Summon Limit
-There Can Be Only One
-There Can Be Only One
-There Can Be Only One
+
 
 # Other Traps
-Infinite Impermanence
-Infinite Impermanence
-Infinite Impermanence
-Subterror Final Battle
-Subterror Final Battle
-Subterror Final Battle
-Solemn Strike
-Solemn Strike
-Solemn Strike
 Solemn Judgment
-Solemn Warning
+Solemn Judgment
+Solemn Judgment
 
 
 # Extra Deck
@@ -67,40 +41,13 @@ Solemn Warning
 
 # The extra deck is rarely used in this deck and is mostly there for Pot of Extravagance
 
-Shooting Quasar Dragon
-Borreload Dragon
-Borrelsword Dragon
-Saryuja Skull Dread
-Summon Sorceress
-Curious, the Lightsworn Dominion
-Decode Talker
-Knightmare Unicorn
-Knightmare Phoenix
-Knightmare Cerberus
-Missus Radiant
-Missus Radiant
-Missus Radiant
-Reprodocus
-Link Spider
-
+Apollousa, Bow of the Goddess
+I:P Masquerena
 
 # Side Deck
 ############
 
 # This side deck is probably not optimal...
-
-Subterror Nemesis Archer
-Subterror Nemesis Archer
-Ghost Ogre & Snow Rabbit
-Ghost Ogre & Snow Rabbit
-Scapegoat
-Subterror Cave Clash
-Necrovalley
-Necrovalley
-Necrovalley
-Heavy Storm Duster
-Heavy Storm Duster
-Heavy Storm Duster
-Gozen Match
-Gozen Match
-Gozen Match
+Lightning Storm
+Lightning Storm
+Lightning Storm
